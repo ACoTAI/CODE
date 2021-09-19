@@ -1,0 +1,17 @@
+E:\CYB\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CYB\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.Properties.Resources.resources
+E:\CYB\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CYB\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CYB\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.FormMain.resources
+E:\CYB\CentralTimeSeries\CentralTimeSeries\bin\Debug\CentralTimeSeries.exe
+E:\CYB\CentralTimeSeries\CentralTimeSeries\bin\Debug\CentralTimeSeries.pdb
+E:\CYB\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.exe
+E:\CYB\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.pdb
+C:\msysgit\git\CentralTimeSeries\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.exe
+C:\msysgit\git\CentralTimeSeries\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.pdb
+C:\msysgit\git\CentralTimeSeries\CentralTimeSeries\CentralTimeSeries\bin\Debug\CentralTimeSeries.exe
+C:\msysgit\git\CentralTimeSeries\CentralTimeSeries\CentralTimeSeries\bin\Debug\CentralTimeSeries.pdb
+C:\msysgit\git\CentralTimeSeries\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.csprojResolveAssemblyReference.cache
+C:\msysgit\git\CentralTimeSeries\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.FormMain.resources
+C:\msysgit\git\CentralTimeSeries\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.Properties.Resources.resources
+C:\msysgit\git\CentralTimeSeries\CentralTimeSeries\CentralTimeSeries\obj\x86\Debug\CentralTimeSeries.csproj.GenerateResource.Cache
