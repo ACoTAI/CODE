@@ -8,3 +8,5 @@ You can use the script `scripts/evaluate_model.py` to run any of the models you 
 
 e.g. 
 python scripts/evaluate_model.py  --model_path models/sgan-models
+
+Any quenstions, you can email me at dafeng0321@gmail.com
