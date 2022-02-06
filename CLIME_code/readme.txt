@@ -15,7 +15,7 @@ Bib citation as follow:
   journal={ACM Transactions on Knowledge Discovery from Data},
   volume = {15},
   number={5},
-  pages= {1--38},
+  pages= {1--26},
   issn = {1556-4681},
   publisher = {Association for Computing Machinery},
   address = {New York, NY, USA},
