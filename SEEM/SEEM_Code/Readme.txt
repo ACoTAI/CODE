@@ -13,7 +13,6 @@ Any quenstions, you can e-mail me at dafeng0321@gmail.com
 
 References:
 
-
 Dafeng Wang, Hongbo Liu, Naiyao Wang, Yiyang Wang, Hua Wang, and Sean McLoone, “SEEM: A sequence entropy energy-based model for pedestrian trajectory all-then-one prediction,” IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
 
 Bib citation as follow:
